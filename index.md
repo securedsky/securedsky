@@ -14,6 +14,7 @@ You can vis our [company homepage](https://securedsky.com) to find more service.
 [任意播技术](http://www.javashuo.com/article/p-yoaxiuzc-nw.html)
 [任播(Anycast)技术](https://www.renfei.net/posts/1003426)
 [浅析 AnyCast 技术](https://www.hi-linux.com/posts/26571.html)
+[什么是 Anycast](https://www.cloudflare.com/zh-cn/learning/cdn/glossary/anycast-network/)
 
 # CDN 厂商
 [CloudFlare] (https://cloudflare.com)
