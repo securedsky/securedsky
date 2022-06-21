@@ -28,6 +28,9 @@ You can vis our [company homepage](https://securedsky.com) to find more service.
 [ngx_pagespeed](https://github.com/apache/incubator-pagespeed-ngx)
 [google page speed tools](https://developers.google.com/speed/docs/insights/MinifyResources?hl=zh-cn)
 
+# CDN SEO
+[google search](https://developers.google.com/search/docs?hl=zh-cn)
+
 # CDN 厂商
 [CloudFlare](https://cloudflare.com)
 [SecuredSky](htts://securedsky.com)
