@@ -29,7 +29,8 @@ You can vis our [company homepage](https://securedsky.com) to find more service.
 [google page speed tools](https://developers.google.com/speed/docs/insights/MinifyResources?hl=zh-cn)
 
 # CDN 厂商
-[CloudFlare] (https://cloudflare.com)
+[CloudFlare](https://cloudflare.com)
+[SecuredSky](htts://securedsky.com)
 
 ```
 
