@@ -4,6 +4,17 @@ You can vis our [company homepage](https://securedsky.com) to find more service.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### CDN 技术
+
+介绍CDN方面的技术
+
+```markdown
+[任意播技术](http://www.javashuo.com/article/p-yoaxiuzc-nw.html)
+[任播(Anycast)技术](https://www.renfei.net/posts/1003426)
+```
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
