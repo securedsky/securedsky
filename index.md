@@ -21,6 +21,13 @@ You can vis our [company homepage](https://securedsky.com) to find more service.
 [使用 Nginx 的 image_filter 模块来构建动态缩略图服务器](https://juejin.cn/post/6844903655208910856)
 [使用nginx动态转换图片大小,生成缩略图](https://juejin.cn/post/6924563288689360909)
 
+# 安全
+
+
+# 速度
+[ngx_pagespeed](https://github.com/apache/incubator-pagespeed-ngx)
+[google page speed tools](https://developers.google.com/speed/docs/insights/MinifyResources?hl=zh-cn)
+
 # CDN 厂商
 [CloudFlare] (https://cloudflare.com)
 
